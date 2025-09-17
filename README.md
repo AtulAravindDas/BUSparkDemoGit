@@ -1,6 +1,5 @@
 # Project X: The Overly Ambitious Data & AI Playground (Certified Skibidi Edition)
 
-![banner](https://via.placeholder.com/1200x300.png?text=Project+X+-+AI+Playground)  
 
 > Warning: This repo contains code, chaos, caffeine, and an unhealthy amount of skibidi references. Proceed with max rizz.  
 
