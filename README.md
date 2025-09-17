@@ -1,77 +1,69 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2821
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+# Project X: The Overly Ambitious Data & AI Playground (Certified Skibidi Edition)
 
-\f0\fs24 \cf0 # \uc0\u55357 \u56960  Project X: The Overly Ambitious Data & AI Playground \u55358 \u56800 \u10024  (Certified Skibidi Edition)\
-\
-![banner](https://via.placeholder.com/1200x300.png?text=Project+X+-+AI+Playground)  \
-\
-> \uc0\u9888 \u65039  **Warning:** This repo contains code, chaos, caffeine, and an unhealthy amount of skibidi references. Proceed with max rizz.  \
-\
----\
-\
-## \uc0\u55357 \u56534  Table of Contents (no cap)\
-1. [About the Project](#-about-the-project) (Sigma grindset arc \uc0\u55357 \u56831 )  \
-2. [Features](#-features) (they lowkey got that dawg in them \uc0\u55357 \u56341 )  \
-3. [Tech Stack](#-tech-stack) (built diff)  \
-4. [Architecture](#-architecture) (Ohio core design)  \
-5. [Installation](#-installation) (step 67 will shock you \uc0\u55357 \u56883 )  \
-6. [Usage](#-usage) (pls no gyatt errors)  \
-7. [Project Structure](#-project-structure)  \
-8. [Data Sources](#-data-sources) (real skibidi sources fr)  \
-9. [Model Training](#-model-training) (NPC gym workout \uc0\u55356 \u57291 \u65039 )  \
-10. [Deployment](#-deployment) (speedrun any% \uc0\u55357 \u56960 )  \
-11. [Demo](#-demo) (Skibidi Ohio test footage \uc0\u55357 \u56569 )  \
-12. [Roadmap](#-roadmap) (unlocking 67th form)  \
-13. [Challenges & Lessons Learned](#-challenges--lessons-learned) (pain arc)  \
-14. [Contributing](#-contributing) (drop some rizz in the PRs \uc0\u55357 \u56453 )  \
-15. [FAQ](#-faq) (no gyatts were harmed)  \
-16. [License](#-license) (Ohio edition)  \
-17. [Acknowledgments](#-acknowledgments) (shoutout my sigma devs)  \
-\
----\
-\
-## \uc0\u55357 \u56481  About the Project\
-Project X is basically a **skibidi-coded Sigma pipeline**.  \
-It\'92s giving:  \
-- Data scraping with **max rizz** \uc0\u55357 \u56453   \
-- ML models that either clutch or flop (no in-between \uc0\u55357 \u56613 \u55357 \u56448 )  \
-- Dashboards pulling up like \'93you dropped this \uc0\u55356 \u57286 \'94  \
-- Deployed faster than a gyatt in Ohio  \
-\
-In short: **Project X is a 67/10, no cap.**  \
-\
----\
-\
-## \uc0\u10024  Features (built diff)\
-- \uc0\u55357 \u56522  Dashboards: skibidi interactive  \
-- \uc0\u55358 \u56598  ML Models: certified rizz (sometimes NPC-coded tho)  \
-- \uc0\u55356 \u57101  APIs: pulling data straight outta Ohio  \
-- \uc0\u55357 \u56589  NLP: extracting sigma vibes from text  \
-- \uc0\u9889  Real-time alerts: \'93bro you in danger\'94 \u55357 \u56448   \
-- \uc0\u55356 \u57256  Dark mode: cuz light mode has no rizz  \
-\
----\
-\
-## \uc0\u55357 \u57056  Tech Stack (Sigma 67 Edition)\
-- **Frontend:** Streamlit (skibidi UI), Plotly (gyatt charts)  \
-- **Backend:** FastAPI (Ohio-coded)  \
-- **Database:** PostgreSQL (actually cooked)  \
-- **ML:** PyTorch + Hugging Face (straight rizz models)  \
-- **Deployment:** Docker + Hugging Face (no NPC energy here)  \
-\
----\
-\
-## \uc0\u10067  FAQ\
-**Q: Why does the app sometimes skibidi crash?**  \
-A: Because it\'92s coded in Ohio \uc0\u55357 \u56877   \
-\
-**Q: Is this production-ready?**  \
-A: Bro it\'92s giving \'9367 beta release.\'94  \
-\
-**Q: How do I contribute?**  \
-A: Drop some sigma rizz in a PR.  \
-}
+![banner](https://via.placeholder.com/1200x300.png?text=Project+X+-+AI+Playground)  
+
+> Warning: This repo contains code, chaos, caffeine, and an unhealthy amount of skibidi references. Proceed with max rizz.  
+
+---
+
+## Table of Contents (no cap)
+1. [About the Project](#-about-the-project) (Sigma grindset arc)  
+2. [Features](#-features) (they lowkey got that dawg in them)  
+3. [Tech Stack](#-tech-stack) (built diff)  
+4. [Architecture](#-architecture) (Ohio core design)  
+5. [Installation](#-installation) (step 67 will shock you)  
+6. [Usage](#-usage) (pls no gyatt errors)  
+7. [Project Structure](#-project-structure)  
+8. [Data Sources](#-data-sources) (real skibidi sources fr)  
+9. [Model Training](#-model-training) (NPC gym workout)  
+10. [Deployment](#-deployment) (speedrun any%)  
+11. [Demo](#-demo) (Skibidi Ohio test footage)  
+12. [Roadmap](#-roadmap) (unlocking 67th form)  
+13. [Challenges & Lessons Learned](#-challenges--lessons-learned) (pain arc)  
+14. [Contributing](#-contributing) (drop some rizz in the PRs)  
+15. [FAQ](#-faq) (no gyatts were harmed)  
+16. [License](#-license) (Ohio edition)  
+17. [Acknowledgments](#-acknowledgments) (shoutout my sigma devs)  
+
+---
+
+## About the Project
+Project X is basically a **skibidi-coded Sigma pipeline**.  
+It’s giving:  
+- Data scraping with **max rizz**  
+- ML models that either clutch or flop (no in-between)  
+- Dashboards pulling up like “you dropped this”  
+- Deployed faster than a gyatt in Ohio  
+
+In short: **Project X is a 67/10, no cap.**  
+
+---
+
+## Features (built diff)
+- Dashboards: skibidi interactive  
+- ML Models: certified rizz (sometimes NPC-coded tho)  
+- APIs: pulling data straight outta Ohio  
+- NLP: extracting sigma vibes from text  
+- Real-time alerts: “bro you in danger”  
+- Dark mode: cuz light mode has no rizz  
+
+---
+
+## Tech Stack (Sigma 67 Edition)
+- **Frontend:** Streamlit (skibidi UI), Plotly (gyatt charts)  
+- **Backend:** FastAPI (Ohio-coded)  
+- **Database:** PostgreSQL (actually cooked)  
+- **ML:** PyTorch + Hugging Face (straight rizz models)  
+- **Deployment:** Docker + Hugging Face (no NPC energy here)  
+
+---
+
+## FAQ
+**Q: Why does the app sometimes skibidi crash?**  
+A: Because it’s coded in Ohio.  
+
+**Q: Is this production-ready?**  
+A: Bro it’s giving “67 beta release.”  
+
+**Q: How do I contribute?**  
+A: Drop some sigma rizz in a PR.  
